@@ -1,4 +1,21 @@
-# Getting Started with Create React App
+<p align="center">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/rickweb3/gallery-react">
+  <a href="https://github.com/rickweb3/gallery-react/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/rickweb3/gallery-react">
+  </a>
+  <a href="">
+    <img alt="Feito por rickweb3" src="https://img.shields.io/badge/desenvolvido%20por-rickweb3-%237519C1">
+  </a>
+</p>
+
+
+<h2 align="center"> 
+	🚧 Gallery - Completed 🚀 🚧
+</h2>
+
+
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
